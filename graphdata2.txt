@@ -1,0 +1,13 @@
+3
+a b c d e f g h z#
+
+a b
+a c
+b d
+b e
+d h
+e h
+h g
+g c
+z f
+# #
